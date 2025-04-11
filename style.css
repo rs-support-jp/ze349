@@ -1,0 +1,11 @@
+body {
+  margin-top: 25px;
+  margin-left: 25px;
+  font-family: Helvetica;
+  font-size: 15px;
+}
+
+ul li {
+  padding-top: 10px; 
+  padding-bottom: 10px;
+}
